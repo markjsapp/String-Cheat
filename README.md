@@ -1,5 +1,5 @@
 # String Cheat 
-<img src="https://gfycat.com/weepyfelinekangaroo"/>
+![demo](https://gfycat.com/weepyfelinekangaroo)
 
 ## About 
 String Cheat is the first React Native app I've created that wasn't part of a tutorial! String Cheat is handy pocket guide that displays basic guitar chord shapes and finger positions. It utilizies ListItem from React Native Elements, a third party UI toolkit. More info on that library can be found [here](https://react-native-elements.github.io/react-native-elements/). 
